@@ -1,0 +1,32 @@
+body {
+  background: #ffffff;
+}
+
+#header {
+     background: white
+}
+
+#footer {
+     background: #ffffff;
+}
+
+#index-panel a {
+  color: #000000;
+  text-decoration: auto;
+  pointer-events: auto;
+  cursor: default;
+}
+
+
+.segmentLink {
+	border: #000000 1px solid;
+	padding: 5px;
+}
+                     
+#audio-panel {
+     background-color: #3c3c3c;
+}
+
+#subjectPlayer {
+     background-color: #3c3c3c;
+}
